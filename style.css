@@ -1,0 +1,60 @@
+.container{
+    margin-bottom: 50px;
+}
+header{
+    background-color:#F0FFF0;
+}
+.nav-bar-logo{
+    width: 150px;
+}
+.sign-in-button{
+    background-color: #21B573;
+    border-radius: 20px;
+}
+.nav-item{
+    margin: 10px;
+}
+.top-banner{
+    padding: 50px;
+}
+.question-p{
+    color: #FB6735;
+}
+.high-light{
+    color: #21B573;
+}
+.get-started-btn{
+    background-color: #21B573;
+    border-radius: 20px;
+}
+.overview-card-img{
+    width: 50px;
+}
+.card{
+    border-radius: 10px;
+    border: none;
+}
+.overview-card{
+    background-color:#F0FFF0;
+}
+.overview-card:hover{
+    background-color: white;
+    box-shadow: 10px 10px 20px lightgray;
+}
+.buy-course-btn{
+    background-color: #21B573;
+    border-radius: 20px;
+}
+.card-courses{
+    box-shadow: 10px 10px 20px lightgray;
+}
+footer{
+    background-color: #282531;
+}
+footer a{
+    color: white;
+}
+.card-teachers{
+    box-shadow: 10px 10px 20px lightgray;
+    background-color:#F0FFF0;
+}
